@@ -17,5 +17,6 @@
 
 mod t01_accept_loop;
 mod t02_receiving_messages;
+mod t04_connecting_readers_and_writers;
 
 
